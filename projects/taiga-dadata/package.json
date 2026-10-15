@@ -2,14 +2,14 @@
   "name": "@taiga-ui-labs/dadata",
   "version": "0.0.0",
   "description": "Интеграция API DaData для Angular и Taiga UI",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/taiga-family-labs/taiga-dadata.git"
+    "url": "https://github.com/splincode-taiga-labs/taiga-dadata.git"
   },
-  "homepage": "https://taiga-family-labs.github.io/taiga-dadata/",
+  "homepage": "https://splincode-taiga-labs.github.io/taiga-dadata/",
   "bugs": {
-    "url": "https://github.com/taiga-family-labs/taiga-dadata/issues"
+    "url": "https://github.com/splincode-taiga-labs/taiga-dadata/issues"
   },
   "publishConfig": {
     "access": "public"
